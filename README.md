@@ -1,2 +1,2 @@
 # TESTE
-Teste
+TEMPLATE
