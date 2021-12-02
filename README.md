@@ -19,3 +19,4 @@ Utilizar a seguinte estrutura de pastas como padrão:
 	Obs.:
 		- Caso necessário criar pastas não utilizar espaços ou caracteres especiais no nome, somente usar underline _ para searar as palavras.
 		- Iformações mais detalhadas estão na wiki page do projeto.
+		
