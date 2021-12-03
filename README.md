@@ -1,9 +1,9 @@
 # TEMPLATE
 REPOSITÓRIO TEMPLATE
 
-Utilizar como estrutura base e alterar os nomes das pastas de acordo com o seu projeto quando criar um repositório novo.
+- Utilizar como estrutura base e alterar os nomes das pastas de acordo com o seu projeto quando criar um repositório novo.
 
-Utilizar a seguinte estrutura de pastas como padrão:
+- Utilizar a seguinte estrutura de pastas como padrão:
 	- Nome_do_Projeto (Essa será a pasta principal, inserir o nome do seu projeto)
 	    - Pasta Apresentacoes_e_Eventos
 			- Essa é a pasta para armazenar os conteúdos referentes a apresentações e eventos
@@ -16,7 +16,7 @@ Utilizar a seguinte estrutura de pastas como padrão:
 		- Pasta Software
 			- Local onde fica o códgo fonte do projeto, aqui é onde ficará o projeto do sofwtare por padrão
 	
-	Obs.:
+	- Obs.:
 		- Caso necessário criar pastas não utilizar espaços ou caracteres especiais no nome, somente usar underline _ para searar as palavras.
 		- Iformações mais detalhadas estão na wiki page desse projeto.
 		
